@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercise_2</string>
+    <string name="edit_number">edit_number</string>
+    <string name="edit_email">edit_email</string>
+    <string name="edit_name">edit_name</string>
+    <string name="edit_lastname">edit_name</string>
+    <string name="btn_send">btn_send</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="lastname">Lastname</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="send">Send</string>
+</resources>
